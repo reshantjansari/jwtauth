@@ -1,0 +1,35 @@
+.nav{
+    position: relative;
+    top: 0px;
+    display: flex;
+    list-style: none;
+    margin: -15px;
+
+}
+
+body{
+    background-image: url("https://a-static.besthdwallpaper.com/sunset-dusk-wallpaper-1280x800-88265_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav li{
+    margin: 25px;
+    font-size: large;
+    color: white;
+    background-color: rgb(27, 8, 114);
+    border-radius: 12px;
+    padding: 4px 24px;
+    cursor: pointer;
+}
+
+.image{
+    position: absolute;
+    right: 12px;
+    top: 8px;
+}
+
+.image img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}

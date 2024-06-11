@@ -1,0 +1,55 @@
+/* public/css/styles.css */
+
+body {
+    background-image: url("https://cdn.wallpapersafari.com/84/82/2SiFgd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.start {
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    width: 450px;
+    height: 400px;
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    color: white;
+    border-radius: 12px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.first {
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+.first input {
+    padding: 12px 70px;
+    border-radius: 12px;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+}
+
+.end {
+    position: relative;
+    left: 90px;
+    top: 40px;
+}
+
+.end input {
+    padding: 7px 110px;
+    border-radius: 12px;
+}
+
+.p {
+    position: absolute;
+    top: 130px;
+}
+
+.start h1 {
+    justify-content: center;
+    text-align: center;
+}

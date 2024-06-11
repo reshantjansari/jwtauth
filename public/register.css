@@ -1,0 +1,61 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/84/82/2SiFgd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.start{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    width: 450px;
+    height: 550px;
+    background-color:transparent;
+    backdrop-filter: blur(20px);
+    color: white;
+    border-radius: 12px;
+    border: 2px solid rgb(255, 255, 255, 0.2);
+}
+.first{
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+.first input{
+    padding: 12px 70px;
+    border-radius: 12px;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid rgb(255, 255, 255, 0.2);
+}
+.btn p{
+    position: relative;
+    top: 30px;
+    left: 70px;
+}
+.btn p input{
+    padding: 12px 130px;
+    border-radius: 12px;
+    border: 2px solid rgb(255, 255, 255, 0.2);
+}
+.start h1{
+    justify-content: center;
+    text-align: center;
+}
+.last{
+    position: relative;
+    top: 30px;
+}
+.last label{
+    position: relative;
+    left: 70px;
+}
+.last a{
+    position: relative;
+    right: -140px;
+}
+.end{
+    position: relative;
+    top: 50px;
+    justify-content: center;
+    text-align: center;
+}
